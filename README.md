@@ -1,1 +1,3 @@
-# Oscar-Rauda
+Soy un apasionado estudiante de programación que vive en El Salvador y me especializo en el desarrollo web. Actualmente, manejo HTML y CSS, lo que me permite crear interfaces atractivas y funcionales. Estoy muy emocionado por comenzar mi carrera profesional y dar mis primeros pasos en la industria tecnológica.
+
+En un futuro muy cercano, tengo como meta ampliar mis conocimientos aprendiendo lenguajes de programación para el desarrollo backend, lo que me permitirá crear aplicaciones web completas y robustas. Mi objetivo es convertirme en un desarrollador fullstack, capaz de manejar tanto la parte visual como la lógica y funcionalidad de los proyectos web. Con una mentalidad enfocada en el aprendizaje continuo, estoy listo para enfrentar nuevos desafíos y alcanzar mis metas en el mundo del desarrollo de software.
